@@ -1,7 +1,5 @@
 # VisualizeSorting
 
- 🖇️ Deployed Link : https://deepak91168.github.io/VisualizeSorting/
-
  A web application hosted on github pages, designed to showcase the visualization of renowned sorting algorithms including bubble sort, insertion sort, selection sort, merge sort, and quick sort.
 
 ## Tech Stack
