@@ -2,7 +2,7 @@
 
  A web application hosted on github pages, designed to showcase the visualization of renowned sorting algorithms including bubble sort, insertion sort, selection sort, merge sort, and quick sort.
 
- https://sorting-visualizer-rosy-ten.vercel.app/
+ [https://sorting-visualizer-rosy-ten.vercel.app/](https://rajpratham13.github.io/Visualise_Sorting/VisualizeSorting-main/)
 
 ## Tech Stack
 
