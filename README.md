@@ -1,2 +1,2 @@
 # Visualise_Sorting
-https://sorting-visualizer-rosy-ten.vercel.app/
+(https://rajpratham13.github.io/Visualise_Sorting/VisualizeSorting-main/)https://rajpratham13.github.io/Visualise_Sorting/
