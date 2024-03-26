@@ -2,6 +2,8 @@
 
  A web application hosted on github pages, designed to showcase the visualization of renowned sorting algorithms including bubble sort, insertion sort, selection sort, merge sort, and quick sort.
 
+ https://sorting-visualizer-rosy-ten.vercel.app/
+
 ## Tech Stack
 
  ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-E34F26?&style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
